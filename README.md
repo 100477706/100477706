@@ -149,9 +149,3 @@ Este repositorio es mi **vista general** (sin timeline) y enlaza **fichas detall
 - Si no es fiable: dejo únicamente **pasos para ejecución local** en la ficha del proyecto
 
 ---
-
-<div align="center">
-
-Made with ❤️ by Gabriel José Rivera Amor
-
-</div>
