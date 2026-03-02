@@ -1,26 +1,40 @@
 # Gabriel José Rivera Amor
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Yacc/Bison](https://img.shields.io/badge/Yacc%2FBison-FF6B6B?style=for-the-badge&logoColor=white)
+
 Ingeniero Informático con foco en **IA / Machine Learning**, **sistemas** y **desarrollo de software**.  
 Este repositorio es mi **vista general** (sin timeline) y enlaza **fichas detalladas** por proyecto.
 
-**Links**
-- GitHub: https://github.com/100477706
-- LinkedIn: https://www.linkedin.com/in/gabrielrivera27
+</div>
 
 ---
 
-## Navegación
-- [Proyectos (vista general)](#proyectos-vista-general)
-- [Tecnologías y lenguajes](#tecnologías-y-lenguajes)
-- [Habilidades blandas (por indicadores)](#habilidades-blandas-por-indicadores)
-- Fichas detalladas:
+## 🔗 Contacto & Enlaces
+| Plataforma | Enlace |
+|---|---|
+| 🐙 GitHub | https://github.com/100477706 |
+| 💼 LinkedIn | https://www.linkedin.com/in/gabrielrivera27 |
+
+---
+
+## 📑 Navegación
+- [Proyectos (vista general)](#-proyectos-vista-general)
+- [Tecnologías y lenguajes](#-tecnologías-y-lenguajes)
+- [Habilidades blandas](#-habilidades-blandas-por-indicadores)
+- **Fichas detalladas:**
   - [Sobre mí](docs/about.md)
   - [Proyectos (fichas)](docs/projects.md)
   - [Skills (detalle)](docs/skills.md)
 
 ---
 
-## Proyectos (vista general)
+## 🚀 Proyectos (vista general)
 
 > Interactivo en GitHub: abre/cierra categorías. En cada ficha detallo **qué es**, **stack**, **skills blandas**, **cómo ejecutarlo** y **demo (solo si funciona)**.
 
@@ -106,24 +120,38 @@ Este repositorio es mi **vista general** (sin timeline) y enlaza **fichas detall
 
 ---
 
-## Tecnologías y lenguajes
-- **Lenguajes:** Python · (C/C++ según proyectos) · HTML/CSS · (Yacc/Bison)  
-- **Entornos:** Linux (orientado a desarrollo y sistemas)  
-- **Formato trabajo:** repos reproducibles, documentación clara, foco en resultados
+## 💻 Tecnologías y lenguajes
 
-Más detalle: [docs/skills.md](docs/skills.md)
+| Categoría | Tecnologías |
+|---|---|
+| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Yacc/Bison](https://img.shields.io/badge/Yacc%2FBison-FF6B6B?style=flat&logoColor=white) |
+| **Entornos** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Formato** | Repos reproducibles · Documentación clara · Foco en resultados |
 
----
-
-## Habilidades blandas (por indicadores)
-- **Pensamiento analítico & síntesis:** ML, parsing, resolución de ejercicios y casos borde.
-- **Resolución de problemas:** debugging, diseño de soluciones, ejecución iterativa.
-- **Comunicación técnica:** README, instrucciones, explicación de decisiones.
-- **Trabajo en equipo / coordinación:** proyectos académicos, integración de entregables.
-- **Calidad & rigurosidad:** consistencia, cuidado de detalles, validación.
+👉 Más detalle: [docs/skills.md](docs/skills.md)
 
 ---
 
-## Demos
-- **Solo enlazo demos si funcionan** (GitHub Pages / notebook ejecutable / release / instrucciones reproducibles).
-- Si no es fiable: dejo únicamente **pasos para ejecución local** en la ficha del proyecto.
+## 🎯 Habilidades blandas (por indicadores)
+
+| Habilidad | Descripción |
+|---|---|
+| 🧠 **Pensamiento analítico & síntesis** | ML, parsing, resolución de ejercicios y casos borde |
+| 🔧 **Resolución de problemas** | Debugging, diseño de soluciones, ejecución iterativa |
+| 💬 **Comunicación técnica** | README, instrucciones, explicación de decisiones |
+| 👥 **Trabajo en equipo / coordinación** | Proyectos académicos, integración de entregables |
+| ✨ **Calidad & rigurosidad** | Consistencia, cuidado de detalles, validación |
+
+---
+
+## 🎬 Demos
+- **Solo enlazo demos si funcionan** (GitHub Pages / notebook ejecutable / release / instrucciones reproducibles)
+- Si no es fiable: dejo únicamente **pasos para ejecución local** en la ficha del proyecto
+
+---
+
+<div align="center">
+
+Made with ❤️ by Gabriel José Rivera Amor
+
+</div>
