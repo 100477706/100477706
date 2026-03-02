@@ -1,49 +1,13 @@
-# Welcome to My Portfolio
+# Portafolio Español
 
-## 🎨 Portfolio Structure for GitHub Profile
+## Descripción
+Este es el portafolio de un desarrollador con múltiples proyectos.
 
-Welcome to my GitHub profile! Here you will find projects and repositories that showcase my skills and interests in programming.
+## Proyectos
+- Proyecto 1: [Enlace al proyecto 1](http://example.com/proyecto1)
+- Proyecto 2: [Enlace al proyecto 2](http://example.com/proyecto2)
 
----
-
-## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/gabrielrivera27)
-- [GitHub Repos](https://github.com/100477706)
-
----
-
-## 💼 Projects
-| Project | Description |
-| ------- | ----------- |
-| [Traductor](https://github.com/user/traductor) | A translation tool |
-| [MiniShell](https://github.com/user/minishell) | A simple shell implementation |
-| [Funciones_Matematicas](https://github.com/user/funciones_matematicas) | Mathematical functions library |
-| [Proyecto2_Aprendizaje](https://github.com/user/proyecto2_aprendizaje) | Learning project 2 |
-| [Proyecto_Aprendizaje](https://github.com/user/proyecto_aprendizaje) | Learning project |
-| [Sistemas_Distribuidos](https://github.com/user/sistemas_distribuidos) | Distributed systems project |
-| [p2-479095-477706](https://github.com/user/p2-479095-477706) | Project 2 |
-| [Interface_Project](https://github.com/user/interface_project) | User interface design project |
-| [G84.2024.T04.EG3](https://github.com/user/G84.2024.T04.EG3) | Project for G84 2024 |
-| [G84.2024.T04.EG2](https://github.com/user/G84.2024.T04.EG2) | Another project for G84 2024 |
-
----
-
-## 📁 Documentation
-Please refer to the documentation in the /docs folder for more details about my projects, skills, and background.  
-
-- **/docs**
-  - projects.md
-  - skills.md
-  - about.md
-
----
-
-## 🌟 Assets
-This repository includes assets for optional GitHub Pages.  
-
-- **/assets** 
-  - index.html
-  - css/style.css
-  - js/script.js
-
----
+## Navegación hacia los archivos de documentación
+- [Acerca de mí](docs/about.md)
+- [Proyectos](docs/projects.md)
+- [Habilidades](docs/skills.md)
