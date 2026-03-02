@@ -1,4 +1,4 @@
-# Gabriel José Rivera Amor — Portafolio (GitHub)
+# Gabriel José Rivera Amor
 
 Ingeniero Informático con foco en **IA / Machine Learning**, **sistemas** y **desarrollo de software**.  
 Este repositorio es mi **vista general** (sin timeline) y enlaza **fichas detalladas** por proyecto.
