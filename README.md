@@ -3,13 +3,30 @@
 Ingeniero Informático con foco en **IA / Machine Learning**, **sistemas** y **desarrollo de software**.  
 Este repositorio es mi **vista general** (sin timeline) y enlaza **fichas detalladas** por proyecto.
 
-**Links**
-- GitHub: https://github.com/100477706
-- LinkedIn: https://www.linkedin.com/in/gabrielrivera27
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![HTML5](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![Yacc/Bison](https://img.shields.io/badge/Yacc%2FBison-A8B400?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/bison/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+</div>
 
 ---
 
-## Navegación
+## 🔗 Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100477706-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/100477706)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabrielrivera27-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielrivera27)
+
+</div>
+
+---
+
+## 🧭 Navegación
 - [Proyectos (vista general)](#proyectos-vista-general)
 - [Tecnologías y lenguajes](#tecnologías-y-lenguajes)
 - [Habilidades blandas (por indicadores)](#habilidades-blandas-por-indicadores)
@@ -20,7 +37,7 @@ Este repositorio es mi **vista general** (sin timeline) y enlaza **fichas detall
 
 ---
 
-## Proyectos (vista general)
+## 📁 Proyectos (vista general)
 
 > Interactivo en GitHub: abre/cierra categorías. En cada ficha detallo **qué es**, **stack**, **skills blandas**, **cómo ejecutarlo** y **demo (solo si funciona)**.
 
@@ -28,12 +45,12 @@ Este repositorio es mi **vista general** (sin timeline) y enlaza **fichas detall
   <summary><strong>🤖 IA / Machine Learning (Python + Jupyter)</strong></summary>
 
 - **Proyecto_Aprendizaje** — https://github.com/100477706/Proyecto_Aprendizaje  
-  Stack: Python, Jupyter Notebook  
+  Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
   Skills: pensamiento analítico, comunicación técnica, aprendizaje continuo  
   Ficha: [docs/projects.md#proyecto_aprendizaje](docs/projects.md#proyecto_aprendizaje)
 
 - **Proyecto2_Aprendizaje** — https://github.com/100477706/Proyecto2_Aprendizaje  
-  Stack: Python, Jupyter Notebook  
+  Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
   Skills: análisis y síntesis, orientación a resultados, resolución de problemas  
   Ficha: [docs/projects.md#proyecto2_aprendizaje](docs/projects.md#proyecto2_aprendizaje)
 
@@ -43,7 +60,7 @@ Este repositorio es mi **vista general** (sin timeline) y enlaza **fichas detall
   <summary><strong>🧠 Compiladores / Parsing</strong></summary>
 
 - **Traductor** — https://github.com/100477706/Traductor  
-  Stack: Yacc/Bison (archivos `.y`) + documentación PDF  
+  Stack: ![Yacc/Bison](https://img.shields.io/badge/-Yacc%2FBison-A8B400?style=flat-square&logo=gnu&logoColor=white) (archivos `.y`) + documentación PDF  
   Skills: abstracción, rigurosidad, atención al detalle  
   Ficha: [docs/projects.md#traductor](docs/projects.md#traductor)
 
@@ -68,7 +85,7 @@ Este repositorio es mi **vista general** (sin timeline) y enlaza **fichas detall
   <summary><strong>🌐 Frontend / Interfaces</strong></summary>
 
 - **Interface_Project** — https://github.com/100477706/Interface_Project  
-  Stack: HTML, CSS (posible JS)  
+  Stack: ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) (posible JS)  
   Skills: empatía con usuario, iteración, comunicación visual  
   Ficha: [docs/projects.md#interface_project](docs/projects.md#interface_project)
 
@@ -78,17 +95,17 @@ Este repositorio es mi **vista general** (sin timeline) y enlaza **fichas detall
   <summary><strong>📊 Python (académicos / prácticas)</strong></summary>
 
 - **p2-479095-477706** — https://github.com/100477706/p2-479095-477706  
-  Stack: Python (estructura por partes)  
+  Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) (estructura por partes)  
   Skills: organización, documentación, análisis  
   Ficha: [docs/projects.md#p2-479095-477706](docs/projects.md#p2-479095-477706)
 
 - **G84.2024.T04.EG2** — https://github.com/100477706/G84.2024.T04.EG2  
-  Stack: Python  
+  Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
   Skills: trabajo en equipo, entrega, comunicación  
   Ficha: [docs/projects.md#g842024t04eg2](docs/projects.md#g842024t04eg2)
 
 - **G84.2024.T04.EG3** — https://github.com/100477706/G84.2024.T04.EG3  
-  Stack: Python  
+  Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
   Skills: planificación, análisis, mejora continua  
   Ficha: [docs/projects.md#g842024t04eg3](docs/projects.md#g842024t04eg3)
 
@@ -106,24 +123,30 @@ Este repositorio es mi **vista general** (sin timeline) y enlaza **fichas detall
 
 ---
 
-## Tecnologías y lenguajes
-- **Lenguajes:** Python · (C/C++ según proyectos) · HTML/CSS · (Yacc/Bison)  
-- **Entornos:** Linux (orientado a desarrollo y sistemas)  
-- **Formato trabajo:** repos reproducibles, documentación clara, foco en resultados
+## 🛠️ Tecnologías y lenguajes
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) ![Yacc/Bison](https://img.shields.io/badge/Yacc%2FBison-A8B400?style=flat-square&logo=gnu&logoColor=white) |
+| **Entornos** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Formato trabajo** | Repos reproducibles · Documentación clara · Foco en resultados |
 
 Más detalle: [docs/skills.md](docs/skills.md)
 
 ---
 
-## Habilidades blandas (por indicadores)
-- **Pensamiento analítico & síntesis:** ML, parsing, resolución de ejercicios y casos borde.
-- **Resolución de problemas:** debugging, diseño de soluciones, ejecución iterativa.
-- **Comunicación técnica:** README, instrucciones, explicación de decisiones.
-- **Trabajo en equipo / coordinación:** proyectos académicos, integración de entregables.
-- **Calidad & rigurosidad:** consistencia, cuidado de detalles, validación.
+## 💡 Habilidades blandas (por indicadores)
+
+| Habilidad | Indicadores |
+|-----------|-------------|
+| 🔍 **Pensamiento analítico & síntesis** | ML, parsing, resolución de ejercicios y casos borde |
+| 🛠️ **Resolución de problemas** | Debugging, diseño de soluciones, ejecución iterativa |
+| 🗣️ **Comunicación técnica** | README, instrucciones, explicación de decisiones |
+| 🤝 **Trabajo en equipo / coordinación** | Proyectos académicos, integración de entregables |
+| ✅ **Calidad & rigurosidad** | Consistencia, cuidado de detalles, validación |
 
 ---
 
-## Demos
+## 🎯 Demos
 - **Solo enlazo demos si funcionan** (GitHub Pages / notebook ejecutable / release / instrucciones reproducibles).
 - Si no es fiable: dejo únicamente **pasos para ejecución local** en la ficha del proyecto.
